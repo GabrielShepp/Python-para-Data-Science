@@ -16,7 +16,7 @@ Repositório destinado às atividades e projetos desenvolvidos durante meus estu
 - Interação com o usuário (`input`)
 - Exercícios práticos de lógica e matemática aplicada
 
-📁 **Pasta:** `Projeto_estudo 1`  
+📁 **Pasta:** `Python para data Science`  
 **Atividades:** exercícios introdutórios em Python seguindo o curso da Alura.  
 
 ---
