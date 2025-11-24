@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f52aa3b8-bc7a-4fab-bdf7-c753dc752db4" name="Changes" comment="Atividade de Funções">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python para Data Science/Função.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python para Data Science/Estudo de blibiotecas.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="f52aa3b8-bc7a-4fab-bdf7-c753dc752db4" name="Changes" comment="Estudo de funçções" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,6 +84,7 @@
       <workItem from="1763069323277" duration="12000" />
       <workItem from="1763991603190" duration="14461000" />
       <workItem from="1764009843978" duration="856000" />
+      <workItem from="1764010750509" duration="336000" />
     </task>
     <task id="LOCAL-00001" summary="atualização dos nomes e organização dos arquivos">
       <option name="closed" value="true" />
@@ -129,7 +118,23 @@
       <option name="project" value="LOCAL" />
       <updated>1764009269924</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Estudo de funçções">
+      <option name="closed" value="true" />
+      <created>1764010970604</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1764010970604</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Estudo de funçções">
+      <option name="closed" value="true" />
+      <created>1764011080217</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1764011080217</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,7 +154,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="atualização dos nomes e organização dos arquivos" />
     <MESSAGE value="Atividade de Funções" />
-    <option name="LAST_COMMIT_MESSAGE" value="Atividade de Funções" />
+    <MESSAGE value="Estudo de funçções" />
+    <option name="LAST_COMMIT_MESSAGE" value="Estudo de funçções" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject$Estudo_pandas.coverage" NAME="Estudo_pandas Coverage Results" MODIFIED="1762202266538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projeto_estudo 1" />
