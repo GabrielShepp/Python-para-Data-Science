@@ -1,5 +1,4 @@
-# Portfolio de Estudos Data Science
-
+# Base para Data Science
 Repositório destinado às atividades e projetos desenvolvidos durante meus estudos de **Python, SQL e Análise de Dados**, com base em cursos da [Alura](https://www.alura.com.br/) e estudos pessoais.
 
 ---
